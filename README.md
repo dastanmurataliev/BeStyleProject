@@ -1,10 +1,10 @@
 # Документация по проекту "Beauty"
 Установленные пакеты:
 
-1.redux
-2.react-redux
-3.redux-thunk
-4.react-router-dom
+#1.redux
+#2.react-redux
+#3.redux-thunk
+#4.react-router-dom
 
 ## Работа с проектом:
 
